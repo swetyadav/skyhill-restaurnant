@@ -1,0 +1,125 @@
+html{
+  box-sizing:border-box;
+}
+*,*:before,*:after{
+  box-sizing:inherit;
+}
+body{
+  background-color:grey;
+}
+#container{
+  margin-top:135px;
+  margin-left:150px;
+  width:600px;
+  height:300px;
+  border:2px solid black;
+  border-radius:20px;
+  overflow:hidden;
+  box-s
+}
+#left{
+  vertical-align : top;
+  display:inline-block;
+  width:50%;
+  height:100%;
+ 
+  display:inline-block;
+    
+}
+#right{
+  display:line-through:
+  vertical-align : top;
+  display:inline-block;
+  width:50%;
+  height:100%;
+  
+  background-color:black;
+  
+  
+  
+}
+#left-top{
+  padding-top:10px;
+  width:100%;
+  height:65%;
+  background-color:black;
+ 
+  
+}
+#left-bottom{
+  margin-top:0;
+  width:100%;
+  height:35%;
+  background-color:black;
+  
+}
+img{
+  margin-top:20px;
+  margin-left:50px;
+}
+#punjabi{
+  margin-left:80px;
+  margin-top:20px;
+  margin-bottom:20px;
+  width:150px;
+  height:30px;
+  border-radius:20px;
+  font-size:16px;
+  font-weight:600;
+  letter-spacing:0.5px;
+  background-color:yellow;
+}
+#chinese{
+  margin-left:80px;
+  margin-bottom:20px;
+  width:150px;
+  height:30px;
+  border-radius:20px;
+  font-size:16px;
+  font-weight:600;
+  letter-spacing:0.5px;
+  background-color:yellow;
+  
+}
+#sneaks{
+  margin-left:80px;
+  margin-bottom:20px;
+  width:150px;
+  height:30px;
+  border-radius:20px;
+  font-size:16px;
+  font-weight:600;
+  letter-spacing:0.5px;
+  background-color:yellow;
+}
+#mocktail{
+  margin-left:80px;
+  width:150px;
+  height:30px;
+  border-radius:20px;
+  font-size:16px;
+  font-weight:600;
+  letter-spacing:0.5px;
+  background-color:yellow;
+}
+h3{
+  margin-top:30px;
+  color:white;
+  margin-left:86px;
+  font-size:28px;
+}
+h2{
+  margin:0;
+  padding:10px;
+  font-size:40px;
+  padding-left:60px;
+  
+  color:white;
+}
+p{
+  margin-top:-12px;
+  color:yellow;
+  font-size:15px;
+  font-weight:900;
+  padding-left:90px;
+}
